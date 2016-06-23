@@ -8,7 +8,7 @@ NONVOLUNTARYCHECK=0
 VOLUNTARY=1
 VOLUNTARYCHECK=0
 I=1
-BOT=teleseed
+BOT=telewolf
 RELOADTIME=5
 
 function tmux_mode {
