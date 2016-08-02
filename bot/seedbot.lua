@@ -270,24 +270,10 @@ function create_config( )
 	"salam2",
 	"spammer"
     },
-    sudo_users = {189897594,72609318,199471668,222499735},--Sudo users
+    sudo_users = {102117869},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Telewolf v1
 An advanced administration bot based on TG-CLI written in Lua
-
-
-Admins
-ashi007
-alibest
-hamed
-
-Special thanks to
-mohammad hosein [pikas admin]
-arsalan [creeds admin]
-Our channel
-@telewolf_ch [persian]
-
- 
 
 ]],
     help_text_realm = [[
